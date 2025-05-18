@@ -47,7 +47,7 @@ YouTube’s immense popularity—with over 2.7 billion monthly users—has attra
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://[github.com/your-username/your-repo](https://github.com/WilliamKwanProgramming/sta314_finalproject).git
    cd your-repo
    ```
 
